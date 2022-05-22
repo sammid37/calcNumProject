@@ -218,9 +218,6 @@ h_g = calcular_altura_media(lista_alturas_g)
 print(f"A altura média dos {posicao} é: {h:.2f}m.")
 print(f"A altura média dos GOLEIROS é: {h_g:.2f}m.\n")
 
-# m = calcular_massa_media(lista_pesos)
-# print(f"A massa media {m} kg.")
-
 # Critério para escolher o jogador
 # Calculando a altura mínima, chute: 1.60m
 h0 = newton(1.6, h, k0, y, y_max, delta_y, 1e-3, 50, False)
