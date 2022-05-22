@@ -29,9 +29,16 @@ data_goleiros = json.load(f)
 goleiro = escolher_goleiro(data_goleiros)
 print(goleiro)
 
-# Valores padrões, para testes
-altura = 1.88
-massa = 80.58
-imc = 22.8
+# Valores sobre as dimensões da trave
+h_trave = 0
+l_trave = 0
+
+# Valores padrões do goleiro, para testes
+h_goleiro = 1.88
+m_goleiro = 80.58
+
+# * Desenvolvimento do projeto a seguir
+
+
 # fecha o arquivo
 f.close()
