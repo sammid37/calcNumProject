@@ -1,10 +1,18 @@
 # Bola Na Rede
-## Coleta de Dados e Harmonização
+## Etapa 1: Coleta de Dados e Harmonização
 Projeto desenvolvido durante a disciplina de **Cálculo Numérico** (2021.2).
 
 A equipe 3 foi designada a coletar os dados de todos os times que participaram do **Brasileirão Série A** no período 2020-21. 
 
 Com os dados coletados, o objetivo deste projeto é montar o time perfeito e escolher o goleiro ideal utilizando métodos numéricos aprendidos durante a disciplina.
+
+
+## Etapa 2: Trajetória de Centro de Massa do Goleiro
+Em desenvolvimento.
+
+
+## Etapa 3: Aplicação de Interpolação e Ajuste de Curvas
+Em breve.
 
 ### Requisitos
 Disponível no arquivo `requirements.txt`.
