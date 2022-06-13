@@ -27,3 +27,7 @@ Sendo assim, basta executar o arquivo `main.py`. Neste arquivo contém todas as 
 Demais informações quanto ao projeto podem ser acompanhadas na pasta **`documentos`**.
 
 > **Equipe 3**: [Abraão](https://github.com/AbraaoDev), [Altamir](Altamirfl), Anderson, Eduardo Nunes, Élen, [Felipe Miranda](https://github.com/Mirandacc97), [Gabriel Mendes](https://github.com/Jesarus), Matheus Henrique e [Samantha](https://github.com/sammid37).
+
+# 🤔 Futuras implementações
+- [ ] Limpeza de código
+- [ ] Implementar a aplicação em Flask para visualizar todas as etapas do projeto, desde a coleta ao processo de interpolação.
